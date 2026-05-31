@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+   <partial name="_Head" />
+</head>
+<body>
+    <header>
+
+        <partial name="_Navbar" />
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <partial name="_Footer" />
+    </footer>
+    <partial name="_Script" />
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
