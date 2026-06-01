@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using ShopMvc.Data;
 using ShopMvc.Models;
 using System.Diagnostics;
 
@@ -8,6 +9,7 @@ namespace ShopMvc.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
+        ApplicationDbContext context = new ApplicationDbContext();
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
@@ -15,6 +17,8 @@ namespace ShopMvc.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.Categories = context.Categories.ToList();
+            ViewBag.Products = context.Products.ToList();
             return View();
         }
 

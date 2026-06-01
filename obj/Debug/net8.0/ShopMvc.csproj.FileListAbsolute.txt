@@ -138,3 +138,4 @@ C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\refi
 C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\ShopMvc.pdb
 C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\ShopMvc.genruntimeconfig.cache
 C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\ref\ShopMvc.dll
+C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\ShopMvc.sourcelink.json
