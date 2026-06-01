@@ -123,7 +123,6 @@ C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\Shop
 C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\scopedcss\bundle\ShopMvc.styles.css
 C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\scopedcss\projectbundle\ShopMvc.bundle.scp.css
 C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\staticwebassets.build.json
@@ -139,3 +138,4 @@ C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\Shop
 C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\ShopMvc.genruntimeconfig.cache
 C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\ref\ShopMvc.dll
 C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\ShopMvc.sourcelink.json
+C:\Users\jeeda\OneDrive\Desktop\ASP 14\Mvc\ShopMvc\ShopMvc\obj\Debug\net8.0\scopedcss\Areas\User\Views\Shared\_Layout.cshtml.rz.scp.css

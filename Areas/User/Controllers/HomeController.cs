@@ -3,8 +3,9 @@ using ShopMvc.Data;
 using ShopMvc.Models;
 using System.Diagnostics;
 
-namespace ShopMvc.Controllers
+namespace ShopMvc.Areas.User.Controllers
 {
+  [Area("User")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
